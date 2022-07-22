@@ -21,7 +21,7 @@ $(".saveBtn").click(saveTask);
 for ( let i = 0; i < textEl.length; i++){
     if ( (i+9) > currentHour){
         textEl[i].style.backgroundColor = "rgb(95, 206, 132)";
-    } else if ((i+9)===currentHour){
+    } else if ((i+9)==currentHour){
         textEl[i].style.backgroundColor = "rgb(222, 90, 37)";
     }
 }
