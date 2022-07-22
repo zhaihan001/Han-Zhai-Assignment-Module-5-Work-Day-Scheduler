@@ -1,4 +1,6 @@
 # 05 Third-Party APIs: Work Day Scheduler
+Deployment page:
+https://zhaihan001.github.io/Module-5-Work-Day-Scheduler/
 
 
 ## Acceptance Criteria
@@ -24,10 +26,3 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
-
-The following animation demonstrates the application functionality:
-
-![A user clicks on slots on the color-coded calendar and edits the events.](05-third-party-apis-homework-demo.gif)
-
-
-
