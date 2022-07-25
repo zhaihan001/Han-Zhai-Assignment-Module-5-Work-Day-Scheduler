@@ -2,6 +2,7 @@
 Deployment page:
 https://zhaihan001.github.io/Module-5-Work-Day-Scheduler/
 
+![image](https://user-images.githubusercontent.com/106831265/180825032-d6a401fa-6939-42bc-bf6a-9d551de6024a.png)
 
 ## Acceptance Criteria
 
